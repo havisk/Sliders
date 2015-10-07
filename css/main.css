@@ -1,0 +1,41 @@
+.container {
+  width: 500px;
+  position: relative;
+  left: 300px;
+  top: 120px; }
+
+h1 {
+  font-size: 1.5em;
+  text-align: center;
+  display: block;
+  padding: 5px 10px;
+  border: 1px solid #F34C00;
+  background: #032753; }
+
+a {
+  color: #F34C00;
+  text-decoration: none; }
+
+.illini img {
+  position: absolute;
+  width: 100px;
+  left: 202px; }
+
+h1 a:hover,
+h1 a:active {
+  background: orange;
+  border-color: orange; }
+
+.open {
+  height: 400px;
+  overflow: hidden;
+  color: #F34C00;
+  background: #032753;
+  transition: all 1.5s ease; }
+
+.close {
+  height: 0;
+  overflow: hidden;
+  color: #F34C00;
+  background: #032753;
+  transition: all 1.5s ease; }

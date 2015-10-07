@@ -1,0 +1,1 @@
+# Using CSS transitions to open and close sections.
