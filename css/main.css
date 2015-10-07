@@ -27,7 +27,7 @@ h1 a:active {
   border-color: orange; }
 
 .open {
-  height: 400px;
+  height: 250px;
   overflow: hidden;
   color: #F34C00;
   background: #032753;
